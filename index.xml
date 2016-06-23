@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mbio.info</title>
+    <title>mBio.info</title>
     <link>http://mbio.info/</link>
-    <description>Recent content on mbio.info</description>
+    <description>Recent content on mBio.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>shenwei356@gmail.com (shenwei356)</managingEditor>
@@ -18,14 +18,13 @@
       <guid>http://mbio.info/about/</guid>
       <description>
 
-&lt;h1 id=&#34;mbio-info:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;mbio.info&lt;/h1&gt;
-
-&lt;p&gt;Meanings of the domain&lt;/p&gt;
+&lt;h1 id=&#34;mbio-info&#34;&gt;mBio.info&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;M&lt;/strong&gt;y &lt;strong&gt;Bioinfo&lt;/strong&gt;rmatics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M&lt;/strong&gt;eta &lt;strong&gt;Bio&lt;/strong&gt;logy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M&lt;/strong&gt;eta &lt;strong&gt;Bioinfo&lt;/strong&gt;rmatics&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;M&lt;/strong&gt;icrobiological &lt;strong&gt;Bioinfo&lt;/strong&gt;rmatics&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;M&lt;/strong&gt;icro&lt;strong&gt;bio&lt;/strong&gt;logy site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M&lt;/strong&gt;etagenomic &lt;strong&gt;Bioinfo&lt;/strong&gt;rmatics&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

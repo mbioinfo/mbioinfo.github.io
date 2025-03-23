@@ -1,0 +1,43 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "HOME"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "News"
+url = "/news"
+weight = 3
+
+[[main]]
+name = "Team"
+url = "/authors"
+weight = 4
+
+[[main]]
+name = "Join us"
+url = "/join"
+weight = 5
+
+[[main]]
+name = "Publications"
+url = "/publications"
+weight = 6
+
+[[main]]
+name = "Software"
+url = "/software"
+weight = 7
+
+# footer menu
+[[footer]]
+name = "CQMU"
+url = "https://english.cqmu.edu.cn/"
+weight = 1

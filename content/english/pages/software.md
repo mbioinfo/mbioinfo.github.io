@@ -25,7 +25,6 @@ draft: false
 #### Others
 
 - **[perfect-bioinformatic-tools](https://github.com/shenwei356/perfect-bioinformatic-tools)**, suggestions for improving the usability of bioinformatic (command-line) tools
-- **[go4bio](https://github.com/shenwei356/go4bio)**, introduction of Golang in Bioinformatics
 
 #### Retired software
 

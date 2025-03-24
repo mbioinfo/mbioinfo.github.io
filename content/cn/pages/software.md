@@ -24,8 +24,7 @@ draft: false
 
 #### 其他
 
-- **[perfect-bioinformatic-tools](https://github.com/shenwei356/perfect-bioinformatic-tools)**, 提高生物信息学命令行软件的建议
-- **[go4bio](https://github.com/shenwei356/go4bio)**, 介绍Go语言在生物信息学领域的应用（很久未更新）
+- **[perfect-bioinformatic-tools](https://github.com/shenwei356/perfect-bioinformatic-tools)**, 提高生物信息学命令行软件准确性和易用性的建议
 
 #### 不再维护
 

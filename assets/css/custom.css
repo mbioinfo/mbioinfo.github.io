@@ -1,5 +1,24 @@
 /* Add your own custom styles here */
-.aaa a:link {color: #0047AB;}
-.aaa a:visited {color: #0047AB;}
-.aaa a:hover {color: #0047AB;}
-.aaa a:active {color: #0047AB;}
+.aaa a:link {
+    color: #0047AB;
+}
+
+.aaa a:visited {
+    color: #0047AB;
+}
+
+.aaa a:hover {
+    color: #0047AB;
+}
+
+.aaa a:active {
+    color: #0047AB;
+}
+
+.ttt {
+    color: #083370;
+}
+
+.ttt2 {
+    color: #981a07;
+}

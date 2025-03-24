@@ -15,7 +15,7 @@ logo_text = "Shen Lab @ CQMU"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
-theme_switcher = true
+theme_switcher = false
 theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["news"]
@@ -62,8 +62,8 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Wei Shen", "Bioinformatics", "Chongqing", "China", "CQMU", "沈伟", "生物信息学", "重庆", "中国", "重庆医科大学", "重医"]
-description = "Wei Shen Research Group"
+keywords = ["Wei Shen", "Bioinformatics", "Chongqing", "China", "Chongqing Medical University", "CQMU", "沈伟", "生物信息学", "重庆", "中国", "重庆医科大学", "重医", "导师"]
+description = "Wei Shen Lab @ CQMU"
 author = "Wei Shen"
 twitter = "shenwei356"
 image = "images/og-image.png"
@@ -72,7 +72,7 @@ image = "images/og-image.png"
 # site verifications
 # verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
 [site_verification]
-google = ""   # Your verification code
+google = "G-04FC8XTF3X"   # Your verification code
 bing = ""     # Your verification code
 baidu = ""    # Your verification code
 facebook = "" # Your verification code

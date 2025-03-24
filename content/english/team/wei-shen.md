@@ -19,6 +19,10 @@ social:
   - name: google-scholar
     icon: fa-brands fa-google-scholar
     link: https://scholar.google.com/citations?hl=en&user=wHF3Lm8AAAAJ
+
+  - name: ORCID
+    icon: fa-brands fa-orcid
+    link: http://orcid.org/0000-0002-8099-8258
 ---
 
 Principle Investigator. More: http://shenwei.me

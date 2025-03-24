@@ -19,6 +19,10 @@ social:
   - name: google-scholar
     icon: fa-brands fa-google-scholar
     link: https://scholar.google.com/citations?hl=en&user=wHF3Lm8AAAAJ
+
+  - name: ORCID
+    icon: fa-brands fa-orcid
+    link: http://orcid.org/0000-0002-8099-8258
 ---
 
 课题组负责人. 个人网站：http://shenwei.me

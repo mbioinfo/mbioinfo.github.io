@@ -5,8 +5,8 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 
-[zh]
+[cn]
 languageName = "中文"
 languageCode = "zh-cn"
-contentDir = "content/zh-cn"
+contentDir = "content/cn"
 weight = 2

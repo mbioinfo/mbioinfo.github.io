@@ -1,9 +1,9 @@
 ---
-title: "Publications"
+title: "科研论文"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "科研论文 SCI 沈伟 重庆医科大学 重医"
 # save as draft
 draft: false
 ---

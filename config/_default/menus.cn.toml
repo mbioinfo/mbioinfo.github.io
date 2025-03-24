@@ -2,42 +2,42 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "首页"
 url = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "介绍"
 url = "/about"
 weight = 2
 
 # [[main]]
-# name = "News"
+# name = "新闻"
 # url = "/news"
 # weight = 3
 
 [[main]]
-name = "Team"
+name = "团队成员"
 url = "/team"
 weight = 4
 
 [[main]]
-name = "Join us"
+name = "加入我们"
 url = "/join"
 weight = 5
 
 [[main]]
-name = "Publications"
+name = "科研论文"
 url = "/publications"
 weight = 6
 
 [[main]]
-name = "Software"
+name = "学术软件"
 url = "/software"
 weight = 7
 
 # footer menu
 [[footer]]
-name = "CQMU"
+name = "重庆医科大学"
 url = "https://english.cqmu.edu.cn/"
 weight = 1

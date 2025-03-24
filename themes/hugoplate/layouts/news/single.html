@@ -15,7 +15,7 @@
           <ul class="mb-4">
             <li class="mr-4 inline-block">
               <a
-                href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
+                href="{{ `team/` | relLangURL }}{{ .Params.Author | urlize }}/">
                 <i class="fa-regular fa-circle-user mr-2"></i
                 >{{ .Params.author }}
               </a>
@@ -40,7 +40,7 @@
               {{ time.Format ":date_long" .PublishDate }}
             </li>
           </ul>
-          <div class="content mb-10">
+          <div class="content mb-10  aaa">
             {{ partial "toc.html" (dict "Class" "blog" "Collapsed" false "TableOfContents" .TableOfContents ) }}
             {{ .Content }}
           </div>

@@ -36,6 +36,11 @@ name = "Software"
 url = "/software"
 weight = 7
 
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 8
+
 # footer menu
 [[footer]]
 name = "CQMU"

@@ -36,6 +36,11 @@ name = "学术软件"
 url = "/software"
 weight = 7
 
+[[main]]
+name = "联系我们"
+url = "/contact"
+weight = 8
+
 # footer menu
 [[footer]]
 name = "重庆医科大学"

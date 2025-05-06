@@ -2,7 +2,7 @@
 title: Wei Shen
 email: shenwei356@gmail.com
 image: "/images/shenwei.jpeg"
-description: this is meta description
+description: Wei Shen
 social:
   - name: github
     icon: fa-brands fa-github

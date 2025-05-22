@@ -10,10 +10,10 @@ draft: false
 
 #### 研究生
 
-1. （重庆医科大学）生物信息学专业（0710Z1）硕士研究生（全日制，学术学位），院系代码 003（第二临床学院），2025年名额：1个。
+1. （重庆医科大学）生物信息学专业（0710Z1）硕士研究生（全日制，学术学位），院系代码 003（第二临床学院），名额：1个。
    - 官方网站：[重庆医科大学研究生招生网](https://yjszs.cqmu.edu.cn/)，
    [本人的导师信息页面](https://gs.cqmu.edu.cn/Gmis/dsfc/dsfcgrxx/107AAA2E3CACAF7FB9B82831D07B50FF)
-   （因为是第一年招，时间仓促，[学校导师列表页面](https://gs.cqmu.edu.cn/Gmis/dsfc/dsfc_yx)按专业搜索还无法显示本人），
+   （亦可在[学校导师列表页面](https://gs.cqmu.edu.cn/Gmis/dsfc/dsfc_yx)按专业搜索），
    [第二临床学院研究生招生](https://www.sahcqmu.com/index.php?c=category&id=64)
    - 招生/调剂要求：
       - **生物信息学专业**， 或有较强的生物信息学软件开发/数据分析的经验

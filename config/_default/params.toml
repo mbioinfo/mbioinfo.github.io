@@ -62,7 +62,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Wei Shen", "Bioinformatics", "Chongqing", "China", "Chongqing Medical University", "CQMU", "沈伟", "生物信息学", "重庆", "中国", "重庆医科大学", "重医", "导师"]
+keywords = ["Wei Shen", "Bioinformatics", "Chongqing", "China", "Chongqing Medical University", "CQMU", "沈伟", "生物信息学", "重庆", "中国", "重庆医科大学", "重医", "导师", "研究生导师", "硕导", "博导"]
 description = "Wei Shen Lab @ CQMU"
 author = "Wei Shen"
 twitter = "shenwei356"

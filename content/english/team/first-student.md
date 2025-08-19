@@ -1,4 +1,7 @@
 ---
+role: master-student
+weight: 1
+
 title: First Student
 email: xxx@a.com
 image: 

@@ -4,8 +4,28 @@
 
   <section class="section">
     <div class="container">
+
+      <h2 class="h3 mb-6">{{ i18n "pi" }}</h2>
       <div class="row">
-        {{ range .RegularPages }}
+        {{ range where .RegularPages "Params.role" "pi"}}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "components/author-card" . }}
+          </div>
+        {{ end }}
+      </div>
+
+      <h2 class="h3 mb-6">{{ i18n "master-students" }}</h2>
+      <div class="row">
+        {{ range where .RegularPages "Params.role" "master-student"}}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "components/author-card" . }}
+          </div>
+        {{ end }}
+      </div>
+
+      <h2 class="h3 mb-6">{{ i18n "intern-undergraduate" }}</h2>
+      <div class="row">
+        {{ range where .RegularPages "Params.role" "intern-undergraduate"}}
           <div class="md:col-6 lg:col-4 mb-14">
             {{ partial "components/author-card" . }}
           </div>

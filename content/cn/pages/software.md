@@ -12,7 +12,7 @@ draft: false
 
 软件：
 
-- **[LexicMap](https://github.com/shenwei356/LexicMap)**, 快速、可扩展的超大规模原核生物基因组序列比对
+- **[LexicMap](https://github.com/shenwei356/LexicMap)**, 快速、低内存、具有高扩展性的百万规模原核生物基因组序列比对
 - **[KMCP](https://github.com/shenwei356/kmcp)**, 宏基因组物种组成分析，同时也是大规模序列/基因组索引与搜索软件
 - **[SeqKit](https://github.com/shenwei356/seqkit)**, FASTA/Q数据操作的瑞士军刀（功能非常多）
 - **[TaxonKit](https://github.com/shenwei356/taxonkit)**, NCBI分类学数据各种操作，也能从任意分类学数据创建

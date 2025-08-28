@@ -42,7 +42,8 @@ Wei Shen, PhD in Science, Associate Professor in Bioinformatics (started Dec 202
 
 ### Grants
 
+- National Natural Science Foundation of China (2025, 32570766)
 - China Postdoctoral Science Foundation (2021, 2021M700640)
 - National Natural Science Foundation of China (2020, 32000474)
 
-(last update: 2025-03-24)
+(last update: 2025-09-xx)

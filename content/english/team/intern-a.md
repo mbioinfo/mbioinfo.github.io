@@ -2,11 +2,12 @@
 role: intern-undergraduate
 weight: 1
 
-title: Intern A
-email: yyy@a.com
-image: 
-description: Intern A
+title: Yu Zhu
+email: 1822852048@qq.com
+image: "/images/zhuyu.jpeg"
+description: Intern 
 social:
 ---
 
-Comming soon
+Bioinformatics , Chongqing Medical University 
+

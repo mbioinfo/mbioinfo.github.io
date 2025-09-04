@@ -2,11 +2,12 @@
 role: intern-undergraduate
 weight: 1
 
-title: 实习生A
-email: yyy@a.com
-image: 
-description: 实习生A
+title: 朱余
+email: 1822852048@qq.com
+image: "/images/zhuyu.jpeg"
+description: 实习生
 social:
 ---
 
-九月入组
+重庆医科大学 · 生物信息学  
+九月入组。

@@ -2,11 +2,15 @@
 role: master-student
 weight: 1
 
-title: First Student
+title: Chang-jing Chen
 email: xxx@a.com
 image: 
-description: First Student
+description: Chang-jing Chen
 social:
 ---
 
-First student. Comming in Sept. 2025.
+Master student, started Sep 2025.
+
+BSc, XXXX University, China
+
+Email: xxx@a.com

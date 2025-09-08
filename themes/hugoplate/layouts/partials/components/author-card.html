@@ -1,13 +1,13 @@
 <div class="bg-light dark:bg-darkmode-light rounded p-8 text-center">
   {{ $image:= .Params.image }}
   {{ if $image }}
-    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded" "size" "60x60") }}
+    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded" "Size" "x200") }}
   {{ else if .Params.Email }}
     <img
-      class="mx-auto mb-6 rounded w-16 h-16"
+      class="mx-auto mb-6 rounded w-10 h-10"
       alt="{{ .Title }}"
-      height="60"
-      width="60"
+      height="160"
+      width="160"
       src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
   {{ end }}
   <h4 class="mb-3">

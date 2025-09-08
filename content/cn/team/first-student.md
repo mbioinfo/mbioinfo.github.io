@@ -2,11 +2,13 @@
 role: master-student
 weight: 1
 
-title: 首位学生
+title: 陈昌靖
 email: xxx@a.com
 image: 
-description: 首位学生
+description: 陈昌靖
 social:
 ---
 
-九月来校
+硕士研究生，2025年9月入学。
+毕业于XXX大学生物信息学专业。
+邮箱：xxx@a.com

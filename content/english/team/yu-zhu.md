@@ -9,5 +9,5 @@ description: Intern
 social:
 ---
 
-Bioinformatics , Chongqing Medical University 
+2025.09-2026.06 Chongqing Medical University, Bioinformatics
 

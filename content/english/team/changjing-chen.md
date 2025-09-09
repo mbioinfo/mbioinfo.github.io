@@ -3,7 +3,7 @@ role: master-student
 weight: 1
 
 title: Chang-jing Chen
-email: xxx@a.com
+email: 2789110569@qq.com
 image: 
 description: Chang-jing Chen
 social:
@@ -11,6 +11,6 @@ social:
 
 Master student, started Sep 2025.
 
-BSc, XXXX University, China
+BSc, Chongqing University of Posts and Telecommunications, China
 
-Email: xxx@a.com
+Email: 2789110569@qq.com

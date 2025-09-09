@@ -7,7 +7,6 @@ email: 1822852048@qq.com
 image: "/images/zhuyu.jpeg"
 description: 实习生
 social:
-  social:
   - name: email
     icon: fa-solid fa-envelope
     link: mailto:1822852048@qq.com

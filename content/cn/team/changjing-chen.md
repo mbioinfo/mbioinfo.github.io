@@ -4,7 +4,7 @@ weight: 1
 
 title: 陈昌靖
 email: 2789110569@qq.com
-image: 
+image: "/images/changjing-chen.jpg"
 description: 陈昌靖
 social:
 ---

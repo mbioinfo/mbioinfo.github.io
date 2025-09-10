@@ -4,7 +4,7 @@ weight: 1
 
 title: Chang-jing Chen
 email: 2789110569@qq.com
-image: 
+image: "/images/changjing-chen.jpg"
 description: Chang-jing Chen
 social:
 ---

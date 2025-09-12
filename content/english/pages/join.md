@@ -8,6 +8,8 @@ description: ""
 draft: false
 ---
 
+Sorry, I'm not qualified to recruit international students.
+
 #### Positions
 
-1. Postgraduate students, [details in Chinese](/cn/join).
+1. Master students, [details in Chinese](/cn/join).

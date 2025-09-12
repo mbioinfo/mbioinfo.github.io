@@ -13,7 +13,7 @@ draft: false
 Selected Publications (<sup>*</sup> for equal contribution; <sup>†</sup> for corresponding authors):
 
 - **Wei Shen<sup>†</sup>**, John A Lees and Zamin Iqbal<sup>†</sup>.
-  (**2025**) Efficient sequence alignment against millions of prokaryotic genomes with LexicMap.
+  (**2025**) *Efficient sequence alignment against millions of prokaryotic genomes with LexicMap*.
   **Nature Biotechnology**.
   [doi:10.1038/s41587-025-02812-8](https://doi.org/10.1038/s41587-025-02812-8)
 - **Wei Shen<sup>†<sup>**, Botond Sipos, Liuyang Zhao.

@@ -8,7 +8,7 @@ description: ""
 draft: false
 ---
 
-Sorry, I'm not qualified to recruit international students.
+**Sorry, I'm not qualified to recruit international students.**
 
 #### Positions
 

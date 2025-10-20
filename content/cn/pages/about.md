@@ -3,22 +3,23 @@ title: "实验室简介"
 # meta title
 meta_title: ""
 # meta description
-description: "重庆医科大学 重医 生物信息学 沈伟 附二院 附属第二医院 肝炎所"
+description: "重庆医科大学 重医 生物信息学 生信 沈伟 附二院 附属第二医院 肝炎所 导师 博导 硕导"
 # save as draft
 draft: false
 ---
 
 #### 课题组负责人
 
-沈伟, 理学博士, 副研究员（2022年12月）, 学术学位硕士研究生导师（生物信息学 0710Z1）, 重庆生物信息学会常务理事, 在重庆医科大学附属第二医院 感染与肝病研究院（原病毒性肝炎研究所）工作。
+沈伟，理学博士，**副研究员**（2022年12月），学术学位**博士生导师**（医学信息学，生物信息学方向），学术学位**硕士生导师**（生物信息学 0710Z1），国际计算生物学学会中国理事会（ISCB-China）理事，重庆生物信息学会常务理事，在重庆医科大学附属第二医院 感染与肝病研究院（原病毒性肝炎研究所）工作。
 
-沈伟长期从事**微生物基因组、宏基因组相关生物信息学算法设计与软件开发**；主持国家自然科学基金面上项目1项、青年项目1项, 重庆市自然科学基金面上项目1项, 中国博士后科学基金面上项目二等资助1项。作为第一作者和/或通讯作者在**Nature Biotechnology、iMeta、Bioinformatics等期刊发表SCI论著9篇, 其中2篇影响因子大于30, 2篇为ESI 1%高被引论文, 单篇最高引用2800余次**。同时为社区贡献多个生物信息学软件, 受到同行一致好评。
+沈伟长期从事**微生物基因组、宏基因组相关生物信息学算法设计与软件开发**；主持国家自然科学基金面上项目1项、青年项目1项, 重庆市自然科学基金面上项目1项，中国博士后科学基金面上项目二等资助1项。作为第一作者和/或通讯作者在**Nature Biotechnology、iMeta、Bioinformatics等期刊发表SCI论著9篇，其中2篇影响因子大于30，2篇为ESI 1%高被引论文，单篇最高引用2900余次**。同时为社区贡献多个生物信息学软件，受到同行一致好评。
 
 - 实验室网站：[https://mbio.info](https://mbio.info)
 - 个人主页：[http://shenwei.me](http://shenwei.me)
 - 开源项目：[https://github.com/shenwei356](https://github.com/shenwei356)
 - ORCID: [https://orcid.org/0000-0002-8099-8258](https://orcid.org/0000-0002-8099-8258)
 - 谷歌学术：[https://scholar.google.com/citations?hl=en&user=wHF3Lm8AAAAJ](https://scholar.google.com/citations?hl=en&user=wHF3Lm8AAAAJ)
+- 社交媒体：[BlueSky](https://shenwei356.bsky.social), [Twitter](https://twitter.com/shenwei356), [LinkedIn](https://www.linkedin.com/in/shenwei/)
 
 #### 研究方向
 
@@ -64,4 +65,4 @@ draft: false
 - [Theory@EMBL Fellowship](https://www.embl.org/about/info/scientific-visitor-programme/theoryembl/) (2023)
 - Chinese Scholarship Council fellowship (2023)
 
-(更新时间: 2025-09-09)
+(更新时间: 2025-10-20)

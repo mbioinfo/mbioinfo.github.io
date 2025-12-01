@@ -16,6 +16,7 @@ Selected Publications (<sup>*</sup> for equal contribution; <sup>†</sup> for c
   (**2025**) *Efficient sequence alignment against millions of prokaryotic genomes with LexicMap*.
   **Nature Biotechnology**.
   [doi:10.1038/s41587-025-02812-8](https://doi.org/10.1038/s41587-025-02812-8)
+  - Research Briefing: [New algorithm enables fast ‘gold-standard’ search of the world’s largest microbial DNA archives](https://www.nature.com/articles/s41587-025-02939-8)
 - **Wei Shen<sup>†<sup>**, Botond Sipos, Liuyang Zhao.
   (**2024**) *SeqKit2: A Swiss army knife for sequence and alignment processing*.
   **iMeta**.

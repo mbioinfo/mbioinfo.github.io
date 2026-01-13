@@ -12,4 +12,5 @@ draft: false
 
 #### Positions
 
-1. Master students, [details in Chinese](/cn/join).
+1. PhD students, [details in Chinese](/cn/join).
+2. Master students, [details in Chinese](/cn/join).

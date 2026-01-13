@@ -11,11 +11,6 @@ name = "介绍"
 url = "/about"
 weight = 2
 
-# [[main]]
-# name = "新闻"
-# url = "/news"
-# weight = 3
-
 [[main]]
 name = "团队成员"
 url = "/team"
@@ -40,6 +35,11 @@ weight = 7
 name = "联系我们"
 url = "/contact"
 weight = 8
+
+[[main]]
+name = "博客"
+url = "/blog"
+weight = 9
 
 # footer menu
 [[footer]]

@@ -18,7 +18,7 @@ navbar_fixed = true
 theme_switcher = false
 theme_default = "system" # available options [light/dark/system]
 # Main Sections
-mainSections = ["news"]
+mainSections = ["blog"]
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "@2025 Wei Shen"
+copyright = "@2025-2026 Wei Shen"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -46,7 +46,7 @@ link = "contact"
 [search]
 enable = false
 primary_color = "#121212"
-include_sections = ["news"]
+include_sections = ["blog"]
 show_image = true
 show_description = true
 show_tags = true

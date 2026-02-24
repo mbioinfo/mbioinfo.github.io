@@ -20,7 +20,7 @@ Selected Publications (<sup>*</sup> for equal contribution; <sup>†</sup> for c
 - **Wei Shen<sup>†<sup>**, Botond Sipos, Liuyang Zhao.
   (**2024**) *SeqKit2: A Swiss army knife for sequence and alignment processing*.
   **iMeta**.
-  [doi:10.1002/imt2.191](https://doi:10.1002/imt2.191)
+  [doi:10.1002/imt2.191](https://doi.org/10.1002/imt2.191)
 - **Wei Shen<sup>†</sup>**, ..., Peng Hu<sup>†</sup>, Hong Ren<sup>†</sup>.
   (**2023**) *KMCP: accurate metagenomic profiling of both prokaryotic and viral populations by pseudo-mapping*.
   **Bioinformatics**.

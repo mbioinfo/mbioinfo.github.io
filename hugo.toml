@@ -28,7 +28,7 @@ ID = 'G-04FC8XTF3X' # see https://gohugo.io/templates/internal/#configure-google
 
 ########################## Permalinks ############################
 [permalinks.page]
-"pages" = "/:slugorfilename/"
+"pages" = "/:slugorcontentbasename/"
 
 
 ########################## Pagination ############################

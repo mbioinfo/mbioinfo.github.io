@@ -1,11 +1,12 @@
 ---
-role: intern-undergraduate
+role: past-member
 weight: 2
 
 title: Fan Chen
 email: 3435192975@qq.com
 image: "/images/chenfan.jpg"
-description: Intern
+description: Intern (2025-2026)
+placement: AA at People's Hospital of Chongqing Liangjiang New Area
 social:
   - name: email
     icon: fa-solid fa-envelope

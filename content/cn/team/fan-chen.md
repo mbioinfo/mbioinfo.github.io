@@ -1,11 +1,12 @@
 ---
-role: intern-undergraduate
+role: past-member
 weight: 2
 
 title: 陈凡
 email: 3435192975@qq.com
 image: "/images/chenfan.jpg"
-description: 实习生
+description: 2026届实习生
+placement: 重庆两江新区人民医院行政助理
 social:
   - name: email
     icon: fa-solid fa-envelope

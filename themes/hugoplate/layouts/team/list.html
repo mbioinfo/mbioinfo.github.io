@@ -23,14 +23,24 @@
         {{ end }}
       </div>
 
-      <h2 class="h3 mb-6">{{ i18n "intern-undergraduate" }}</h2>
+<!--      <h2 class="h3 mb-6">{{ i18n "intern-undergraduate" }}</h2>
       <div class="row">
         {{ range where .RegularPages "Params.role" "intern-undergraduate"}}
           <div class="md:col-6 lg:col-4 mb-14">
             {{ partial "components/author-card" . }}
           </div>
         {{ end }}
+      </div>-->
+
+      <h2 class="h3 mb-6">{{ i18n "past-member" }}</h2>
+      <div class="row">
+        {{ range where .RegularPages "Params.role" "past-member"}}
+          <div class="md:col-6 lg:col-4 mb-6">
+            {{ partial "components/author-card2" . }}
+          </div>
+        {{ end }}
       </div>
+
     </div>
   </section>
 {{ end }}

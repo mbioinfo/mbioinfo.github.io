@@ -46,6 +46,10 @@ enable = true
 source = 'assets/notwatching/hugo_stats\.json'
 target = 'css'
 
+############################ Security ############################
+[security.exec]
+allow = ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
+
 ############################# Modules ############################
 [module]
 [[module.mounts]]

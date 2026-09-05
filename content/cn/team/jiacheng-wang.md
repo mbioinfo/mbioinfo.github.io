@@ -1,5 +1,6 @@
 ---
 role: phd-student
+weight: 1
 title: 王嘉程
 email: chenqiwjc@gmail.com
 image: "/images/jiacheng-wang.jpg"

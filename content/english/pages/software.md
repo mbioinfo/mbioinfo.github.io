@@ -47,6 +47,7 @@ Tools:
 - **[brename](https://github.com/shenwei356/brename)**, command-line tool for safely batch renaming
 - [cluster_files](https://github.com/shenwei356/cluster_files), organizing (FASTQ) files for parallel analysis
 - [dirsize](https://github.com/shenwei356/dirsize), summarize sizes of directories and files in directories
+- [drop_file_cache](https://github.com/shenwei356/drop_file_cache), clear files cache without root privileges
 
 Packages:
 

@@ -17,7 +17,7 @@ Wei Shen, PhD in Science, Associate Professor in Bioinformatics (started Dec 202
 - Open Source：[https://github.com/shenwei356](https://github.com/shenwei356)
 - ORCID: [https://orcid.org/0000-0002-8099-8258](https://orcid.org/0000-0002-8099-8258)
 - Google Scholar：[https://scholar.google.com/citations?hl=en&user=wHF3Lm8AAAAJ](https://scholar.google.com/citations?hl=en&user=wHF3Lm8AAAAJ)
-- Social Media: [BlueSky](https://shenwei356.bsky.social), [Twitter](https://twitter.com/shenwei356), [LinkedIn](https://www.linkedin.com/in/shenwei/)
+- Social Media: [BlueSky](https://shenwei356.bsky.social), [LinkedIn](https://www.linkedin.com/in/shenwei/)
 
 #### Research Interests
 

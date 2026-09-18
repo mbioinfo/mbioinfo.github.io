@@ -19,7 +19,7 @@ draft: false
 - 开源项目：[https://github.com/shenwei356](https://github.com/shenwei356)
 - ORCID: [https://orcid.org/0000-0002-8099-8258](https://orcid.org/0000-0002-8099-8258)
 - 谷歌学术：[https://scholar.google.com/citations?hl=en&user=wHF3Lm8AAAAJ](https://scholar.google.com/citations?hl=en&user=wHF3Lm8AAAAJ)
-- 社交媒体：[BlueSky](https://shenwei356.bsky.social), [Twitter](https://twitter.com/shenwei356), [LinkedIn](https://www.linkedin.com/in/shenwei/)
+- 社交媒体：[BlueSky](https://shenwei356.bsky.social), [LinkedIn](https://www.linkedin.com/in/shenwei/)
 
 #### 研究方向
 

@@ -46,6 +46,7 @@ draft: false
 - **[brename](https://github.com/shenwei356/brename)**, 安全地批量重命名
 - [cluster_files](https://github.com/shenwei356/cluster_files), 规范地组织测序数据，方便并行、分阶段分析。
 - [dirsize](https://github.com/shenwei356/dirsize), 列出文件和文件夹的大小，比du简单，方便，支持多种操作系统。
+- [drop_file_cache](https://github.com/shenwei356/drop_file_cache), 无需root权限清除指定文件/文件夹缓存（benchmarking中非常有用）
 
 库/包：
 

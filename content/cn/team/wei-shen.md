@@ -9,10 +9,6 @@ social:
     icon: fa-brands fa-github
     link: https://github.com/shenwei356
 
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com/shenwei356
-
   - name: bluesky
     icon: fa-brands fa-bluesky
     link: https://shenwei356.bsky.social
